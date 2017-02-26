@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Home"
-    url: /index.html/
+    url: /index.html
   - title: "About"
-    url: /about/
+    url: /about
   - title: "Contact"
-    url: /contact/
+    url: /contact
   - title: "Services"
-    url: /services/
+    url: /services
   #- title: "Portfolio"
   #  url: /portfolio/
   - title: "Areas Covered"
-    url: /areas/
+    url: /areas
 
