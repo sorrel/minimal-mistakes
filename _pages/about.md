@@ -3,19 +3,26 @@ title: About
 permalink: about/
 layout: splash
 #author: Leaf and Seed
-#author_profile: true
 ---
-{% include figure image_path="/assets/images/flowers.png" alt="Latin name for flowers" caption="Got to have the latin name here" %}
-<h2>Reliable, RHS Qualified Gardeners</h2>
-Some text goes here
+![Heidi at Westdene Gardens](/assets/images/about_heidi.png){: .align-right}
+
+**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgable gardening services in the West Sussex area.
+
+Heidi has been gardening for fifteen years, starting with her own allottment followed by several years volunteering at Ryton Garden Organic.
+
+### Horticulture Qualifcations
+Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
+
+  * RHS Level Two *Certificate in the Principles of Garden Planning, Establishment and Maintenance* (2014)
+  * RHS Level Two *Certificate in the Principles of Plant Growth, Propogation and Development* (2013)
+  * City and Guilds *Certificate in Gardening* (Distinction) (2010)
 
 [![TGG](/assets/images/TGG.png)](http://thegardenersguild.co.uk){: .align-right}
 
-Links to:
+### Professional Membership
+Heidi is a member of the following trade organisations:
 
- - Gardeners thing
- - Other thing
- - List three
-
-
+* [The Gardener's Guild](http://www.thegardenersguild.co.uk)
+* [Chartered Institute of Horticulture](hhttps://www.horticulture.org.uk), associate member
+* [Professional Gardener's Guild](http://www.pgg.org.uk)
 

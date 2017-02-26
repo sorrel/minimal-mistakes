@@ -1,12 +1,15 @@
 # main links
 main:
-  - title: "About Us"
+  - title: "Home"
+    url: /index/
+  - title: "About"
     url: /about/
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Experience and qualifications"
-    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Services"
+    url: /services/
+  #- title: "Portfolio"
+  #  url: /portfolio/
   - title: "Areas Covered"
     url: /areas/
-#  - title: "Sitemap"
-#    url: /sitemap/
+
