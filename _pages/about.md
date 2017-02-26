@@ -23,6 +23,6 @@ Since 2010 she has been studying professional qualifications in order to improve
 Heidi is a member of the following trade organisations:
 
 * [The Gardener's Guild](http://www.thegardenersguild.co.uk)
-* [Chartered Institute of Horticulture](hhttps://www.horticulture.org.uk), associate member
+* [Chartered Institute of Horticulture](https://www.horticulture.org.uk), associate member
 * [Professional Gardener's Guild](http://www.pgg.org.uk)
 
