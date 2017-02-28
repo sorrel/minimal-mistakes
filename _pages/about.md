@@ -6,7 +6,7 @@ layout: splash
 ---
 ![Heidi at Westdene Gardens](/assets/images/about_heidi.png){: .align-right}
 
-**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgable gardening services in the West Sussex area.
+**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
 
 Heidi has been gardening for fifteen years, starting with her own allotment followed by several years volunteering at Ryton Garden Organic.
 
@@ -14,7 +14,7 @@ Heidi has been gardening for fifteen years, starting with her own allotment foll
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
 
   * RHS Level Two *Certificate in the Principles of Garden Planning, Establishment and Maintenance* (2014)
-  * RHS Level Two *Certificate in the Principles of Plant Growth, Propogation and Development* (2013)
+  * RHS Level Two *Certificate in the Principles of Plant Growth, Propagation and Development* (2013)
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)
 
 [![TGG](/assets/images/TGG.png)](http://thegardenersguild.co.uk){: .align-right}
