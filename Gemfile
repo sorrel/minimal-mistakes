@@ -13,8 +13,8 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll", "~> 3.3.0"
-gem "minimal-mistakes-jekyll"
+gem "jekyll", "~> 3.4.0"
+#gem "minimal-mistakes-jekyll"
 
 # # If you have any plugins, put them here!
 group :jekyll_plugins do
