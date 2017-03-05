@@ -11,7 +11,7 @@ We offer an experienced and knowledge-based gardening service and can provide:
   * Weeding
   * Plant Advice
   * Border Care
-  * Plant health maintanence advice
+  * Plant health maintenance advice
   * Design
   * Alternative to pesticides
   * General gardening services
