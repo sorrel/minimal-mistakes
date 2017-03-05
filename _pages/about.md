@@ -7,10 +7,9 @@ layout: splash
 {% include toc %}
 **Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
 
-Heidi has been gardening for fifteen years, starting with her own allotment followed by several years volunteering at Ryton Garden Organic before gardening professionally.
-
 ## Heidi Hurwood
 ![Heidi at Westdene Gardens](/assets/images/about_heidi.png){: .align-right}
+Heidi has been gardening for fifteen years, starting with her own allotment followed by several years volunteering at Ryton Garden Organic before gardening professionally.
 
 ### Horticulture Qualifcations
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
