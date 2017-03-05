@@ -8,6 +8,7 @@ author: Leaf and Seed
 We offer an experienced and knowledge-based gardening service and can provide:
 
   * Pruning Plant advice
+  * Fruit and vegetable production and care
   * Weeding
   * Plant Advice
   * Border Care
