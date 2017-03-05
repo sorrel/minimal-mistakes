@@ -4,7 +4,7 @@ permalink: about/
 layout: splash
 #author: Leaf and Seed
 ---
-{% include toc %}
+{% include toc icon="tree" title="Gardeners" %}
 **Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
 
 ## Heidi Hurwood
