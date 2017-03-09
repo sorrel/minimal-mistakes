@@ -187,6 +187,7 @@ gems:
   - jekyll-feed
   - jekyll-archives
   - jemoji
+  - jekyll-twitter-plugin
 
 # mimic GitHub Pages with --safe
 whitelist:
