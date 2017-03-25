@@ -4,7 +4,7 @@
 .bundle
 .DS_Store
 .jekyll-metadata
-.tweet-cache/
+.tweet-cache
 .sass-cache
 _asset_bundler_cache
 _site
