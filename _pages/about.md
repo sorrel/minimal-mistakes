@@ -14,6 +14,7 @@ Heidi has been gardening for fifteen years, starting with her own allotment foll
 ### Horticulture Qualifcations
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
 
+  * RHS Level Three *The root environment, plant nutrition and growing systems* (2017)
   * RHS Level Two *Certificate in the Principles of Garden Planning, Establishment and Maintenance* (2014)
   * RHS Level Two *Certificate in the Principles of Plant Growth, Propagation and Development* (2013)
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)

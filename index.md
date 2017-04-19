@@ -9,7 +9,7 @@ excerpt: "Garden services in the West Sussex area"
 <!--![Leaf and Seed Logo](/assets/images/index_logo_med.png){: .align-left}-->
 
 # Garden maintenance & plant care, advice & design
-**Leaf & Seed**, founded in 2014, provide knowledgeable and RHS-qualfied garden services in the West Sussex and Surrey area.
+**Leaf & Seed**, founded in 2014, provide knowledgeable and RHS Level 3 qualfied garden services in the West Sussex and Surrey area.
 
 [![TGG](/assets/images/TGG.png)](http://thegardenersguild.co.uk){: .align-right}
 To find out more about what we can do please see [about us]({% link _pages/about.md%}), have a look at the [area we cover]({% link _pages/areas.md%}) and typical [services and prices]({% link _pages/services.md%}).
