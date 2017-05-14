@@ -8,7 +8,7 @@ layout: splash
 **Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
 
 ## Heidi Hurwood
-![Heidi at Westdene Gardens](/assets/images/about_heidi.png){: .align-right}
+{% include figure image_path="/assets/images/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
 Heidi has been gardening for fifteen years, starting with her own allotment followed by several years volunteering at Ryton Garden Organic before gardening professionally.
 
 ### Horticulture Qualifcations
@@ -18,6 +18,8 @@ Since 2010 she has been studying professional qualifications in order to improve
   * RHS Level Two *Certificate in the Principles of Garden Planning, Establishment and Maintenance* (2014)
   * RHS Level Two *Certificate in the Principles of Plant Growth, Propagation and Development* (2013)
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)
+
+{% include figure image_path="/assets/images/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
 
 ### Professional Membership
 Heidi is a member of the following trade organisations:
@@ -44,5 +46,6 @@ Heidi is also a proud supporter of:
   * [Butterfly Conservation](http://butterfly-conservation.org)
   * [The Cottage Garden Society](http://www.thecottagegardensociety.org.uk)
   * [Billingshurst Horticultural Society](http://horticulture.billingshurst.community)
+  * [The Bumblebee Conservation Trust](https://bumblebeeconservation.org)
 
   
