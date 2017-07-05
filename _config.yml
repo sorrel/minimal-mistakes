@@ -92,6 +92,7 @@ author:
   facebook         : "leafandseed"
   foursquare       :
   github           :
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
@@ -245,10 +246,3 @@ defaults:
       author_profile: true
       read_time: true
 
-defaults:
- - scope:
-     path: ""
-     type: pages
-   values:
-     layout: splash
-     author_profile: true
