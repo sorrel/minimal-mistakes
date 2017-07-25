@@ -181,7 +181,7 @@ timezone: Europe/London
 
 
 # Plugins
-=======
+#=======
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
