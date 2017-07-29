@@ -48,4 +48,9 @@ Heidi is also a proud supporter of:
   * [Billingshurst Horticultural Society](http://horticulture.billingshurst.community)
   * [The Bumblebee Conservation Trust](https://bumblebeeconservation.org)
 
-  
+## Duncan West
+{% include figure image_path="/assets/images/dwest.jpeg" alt="Duncan at work" caption="" %}{: .align-right}
+Duncan has been gardening for <?> years and . He has a particular interest in Japanese-style gardening and topiary.
+
+### Horticulture Qualifcations
+Duncan passed the *RHS Level 2 Practical* in <when?>
