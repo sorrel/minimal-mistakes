@@ -180,8 +180,7 @@ paginate_path: /page:num/
 timezone: Europe/London 
 
 
-# Plugins
-#=======
+# Plugins (gems)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
