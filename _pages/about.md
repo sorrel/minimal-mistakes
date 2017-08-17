@@ -5,7 +5,9 @@ layout: splash
 #author: Leaf and Seed
 ---
 {% include toc icon="tree" title="Gardeners" %}
-**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
+**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area. 
+
+Heidi often works on her own on smaller gardens and sometimes with Duncan West on larger plots. Profiles of both gardeners are below.
 
 ## Heidi Hurwood
 {% include figure image_path="/assets/images/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
@@ -20,6 +22,8 @@ Since 2010 she has been studying professional qualifications in order to improve
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)
 
 {% include figure image_path="/assets/images/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
+
+Heidi recently has taken part in several pruning workshops, focusing on fruit pruning skills.
 
 ### Professional Membership
 Heidi is a member of the following trade organisations:
@@ -50,7 +54,13 @@ Heidi is also a proud supporter of:
 
 ## Duncan West
 {% include figure image_path="/assets/images/dwest.jpeg" alt="Duncan at work" caption="" %}{: .align-right}
-Duncan has been gardening for <?> years and . He has a particular interest in Japanese-style gardening and topiary.
+Duncan has been gardening for over six years, both on his own and as part of other teams.
+
+Duncan enjoys the design aspect of gardening as well as maintenance and particularly excels in topiary, crown lifting and having a great eye for seeing a garden’s true potential. 
+
+Heidi and Duncan have worked together for over a year and our skills compliment each other’s strengths and abilities. Duncan is an easy going, conscientious gardener that takes great pride in his work no matter what the job entails.
+
+He has also transformed his own long, shady garden into a Japanese complete with running stream!
 
 ### Horticulture Qualifcations
-Duncan passed the *RHS Level 2 Practical* in <when?>
+Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https://chichester.ac.uk/brinsbury) and also studied Border design at Wisley. 
