@@ -61,7 +61,7 @@ work_g:
     alt: "Newly turfed section of garden"
     title: "Newly turfed section of garden"
 ---
-{% include toc icon="tree" title="Gallery" %}
+All photos take as part of my gardening work. {% include toc icon="tree" title="Gallery" %}
 
 ## Fantastic flowers & perfect plants
 {% include gallery id="wildlife_g" class="full" %}
