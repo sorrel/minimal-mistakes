@@ -58,9 +58,9 @@ Duncan has been gardening for over six years, both on his own and as part of oth
 
 Duncan enjoys the design aspect of gardening as well as maintenance and particularly excels in topiary, crown lifting and having a great eye for seeing a garden’s true potential. 
 
-Heidi and Duncan have worked together for over a year and our skills compliment each other’s strengths and abilities. Duncan is an easy going, conscientious gardener that takes great pride in his work no matter what the job entails.
+Heidi and Duncan have worked together for over a year and their skills compliment each other’s strengths and abilities. Duncan is an easy going, conscientious gardener that takes great pride in his work no matter what the job entails.
 
-He has also transformed his own long, shady garden into a Japanese complete with running stream!
+He has also transformed his own long, shady garden into a quiet Japanese-style space complete with running stream!
 
 ### Horticulture Qualifcations
 Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https://chichester.ac.uk/brinsbury) and also studied Border design at Wisley. 
