@@ -1,7 +1,7 @@
 ---
 title: Services
 permalink: services/
-layout: archive
+layout: single
 author_profile: true
 author: Leaf and Seed
 ---
