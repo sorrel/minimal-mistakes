@@ -1,8 +1,8 @@
 ---
 title: About
 permalink: about/
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 ---
 {% include toc icon="tree" title="Gardeners" %}
 **Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area. 
@@ -53,7 +53,7 @@ Heidi is also a proud supporter of:
   * [The Bumblebee Conservation Trust](https://bumblebeeconservation.org)
 
 ## Duncan West
-{% include figure image_path="/assets/images/dwest.jpeg" alt="Duncan at work" caption="" %}{: .align-right}
+{% include figure image_path="/assets/images/dwest.png" alt="Duncan at work" caption="" %}{: .align-right}
 Duncan has been gardening for over six years, both on his own and as part of other teams.
 
 Duncan enjoys the design aspect of gardening as well as maintenance and particularly excels in topiary, crown lifting and having a great eye for seeing a garden’s true potential. 
