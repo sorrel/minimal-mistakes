@@ -64,3 +64,8 @@ He has also transformed his own long, shady garden into a quiet Japanese-style s
 
 ### Horticulture Qualifcations
 Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https://chichester.ac.uk/brinsbury) and also studied Border design at Wisley. 
+
+### Professional Membership
+Duncan is a member of the following trade organisation:
+
+* [The Gardener's Guild](http://www.thegardenersguild.co.uk) 
