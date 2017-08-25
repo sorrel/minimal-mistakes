@@ -18,7 +18,15 @@ wildlife_g:
     image_path: /assets/images/gallery/Hybrid Aquilegia.jpg
     alt: "Hybrid Aquilegia"
     title: "Hybrid Aquilegia (my own garden)"
+  - url: /assets/images/gallery/courgette.jpg
+    image_path: /assets/images/gallery/courgette.jpg
+    alt: "Huge courgette flower"
+    title: "Huge courgette flower"
 life_g:
+  - url: /assets/images/gallery/frog3.jpg
+    image_path: /assets/images/gallery/frog3.jpg
+    alt: "I often see frogs in the garden"
+    title: "I often see frogs in the garden"
   - url: /assets/images/gallery/Butterfly.jpg
     image_path: /assets/images/gallery/Butterfly.jpg
     alt: "Butterfly"
@@ -44,6 +52,14 @@ life_g:
     alt: "An unexpected toad"
     title: "Another unexpected toad"
 work_g:
+  - url: /assets/images/gallery/beans.jpg
+    image_path: /assets/images/gallery/beans.jpg
+    alt: "Lovely beans growing tall"
+    title: "Lovely beans growing tall"
+  - url: /assets/images/gallery/sunflowers.jpg
+    image_path: /assets/images/gallery/sunflowers.jpg
+    alt: "A gathering of sunflowers"
+    title: "A gathering of sunflowers"
   - url: /assets/images/gallery/Pruned Buddleja.jpg
     image_path: /assets/images/gallery/Pruned Buddleja.jpg
     alt: "Pruned Buddleja"
