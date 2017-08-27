@@ -6,8 +6,8 @@ author_profile: true
 author: Leaf and Seed
 #sidebar:
 wildlife_g:
-  - url: /assets/images/gallery/Strawberry.jpg
-    image_path: /assets/images/gallery/Strawberry.jpg
+  - image_path: /assets/images/gallery/Strawberry.jpg
+    url: /assets/images/gallery/Strawberry.jpg
     alt: "Strawberry"
     title: "A perfect strawberry, from a client's garden"
   - url: /assets/images/gallery/Beautiful Iris.jpg
@@ -78,6 +78,7 @@ work_g:
     title: "Newly turfed section of garden"
 ---
 {% include toc icon="tree" title="Gallery" %}
+
 All photos below taken as part of my gardening work.
 
 ## Fantastic flowers & perfect plants
