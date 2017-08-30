@@ -82,12 +82,12 @@ work_g:
 All photos below taken as part of my gardening work.
 
 ## Fantastic flowers & perfect plants
-{% include gallery id="wildlife_g" class="full" %}
+{% include gallery id="wildlife_g" %}
 
 ## Wildlife in the garden
-{% include gallery id="life_g" class="full" %}
+{% include gallery id="life_g" %}
 
 ## Recent work
-{% include gallery id="work_g" class="full" %}
+{% include gallery id="work_g" %}
 
 Also, please do look at the Leaf and Seed [instagram](https://instagram.com/leaf_and_seed) feed.
