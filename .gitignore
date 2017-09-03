@@ -5,6 +5,7 @@
 .DS_Store
 .jekyll-metadata
 .tweet-cache
+.instagram-cache
 .sass-cache
 _asset_bundler_cache
 _site

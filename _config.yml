@@ -189,6 +189,8 @@ plugins:
   - jekyll-archives
   - jemoji
   - jekyll-twitter-plugin
+  - instagram
+  - json
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -197,7 +199,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - instagram
+  - json
 
 # Archives
 #  Type

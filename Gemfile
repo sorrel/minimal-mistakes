@@ -24,4 +24,6 @@ group :jekyll_plugins do
  gem "jekyll-archives"
  gem "jemoji"
  gem 'jekyll-twitter-plugin'
+ gem 'instagram'
+ gem 'json'
 end
