@@ -11,5 +11,3 @@ See my Facebook page at [facebook/leafandseed](https://www.facebook.com/leafands
 
 {% twitter https://twitter.com/leafandseed maxwidth=600 limit=5 %}{: .align-left}
 
-<!--https://api.instagram.com/v1/users/self/media/recent/?access_token=3292177091.57af66f.15298f96c63e4e79b94a1b50e493db71-->
-
