@@ -4,6 +4,7 @@
 .bundle
 .DS_Store
 .jekyll-metadata
+.instagram-cache
 .tweet-cache
 .instagram-cache
 .sass-cache
