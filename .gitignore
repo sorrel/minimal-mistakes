@@ -6,6 +6,7 @@
 .jekyll-metadata
 .tweet-cache
 .sass-cache
+.instagram-cache
 _asset_bundler_cache
 _site
 codekit-config.json
