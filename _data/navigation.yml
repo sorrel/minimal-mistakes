@@ -8,6 +8,8 @@ main:
     url: /contact
   - title: "Services"
     url: /services
+  - title: "Testimonials"
+    url: /testimonials
   - title: "Gallery"
     url: /gallery
   - title: "Areas Covered"
