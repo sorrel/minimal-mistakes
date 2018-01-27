@@ -7,8 +7,8 @@
               placeId: 'ChIJl2wRr6fAdUgRLoohbSFmiJw' // placeId provided by google api documentation
             , render: ['reviews']
             , min_rating: 4
-            , max_rows: 6
-            , rotateTime: true
+            , max_rows: 5
+            , rotateTime: false
         };
 
         var plugin = this;
