@@ -4,7 +4,6 @@ permalink: gallery/
 layout: single
 author_profile: true
 author: Leaf and Seed
-#sidebar:
 wildlife_g:
   - image_path: /assets/images/gallery/Strawberry.jpg
     url: /assets/images/gallery/Strawberry.jpg
@@ -76,9 +75,10 @@ work_g:
     image_path: /assets/images/gallery/Newly turfed section of garden.jpg
     alt: "Newly turfed section of garden"
     title: "Newly turfed section of garden"
+toc: true
+toc_label: "Gallery"
+toc_icon: "tree"
 ---
-{% include toc icon="tree" title="Gallery" %}
-
 All photos below taken as part of my gardening work.
 
 ## Fantastic flowers & perfect plants

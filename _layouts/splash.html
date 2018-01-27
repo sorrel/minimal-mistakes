@@ -8,6 +8,8 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=' + {{ site.key1 }} + '&signed_in=true&libraries=places'></script><p>The Key is {{ site.key1 }}</p>
+
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -16,6 +18,14 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content" itemprop="text">
+      {% if page.toc %}
+        <aside class="sidebar__right">
+          <nav class="toc">
+            <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
+          {% include toc.html sanitize=true html=content h_min=2 h_max=3 class="toc__menu" %}
+          </nav>
+        </aside>
+      {% endif %}
       {{ content }}
     </section>
   </article>
