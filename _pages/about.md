@@ -63,9 +63,9 @@ Heidi and Duncan have worked together for over a year and their skills complimen
 He has also transformed his own long, shady garden into a quiet Japanese-style space complete with running stream!
 
 ### Horticulture Qualifcations
-Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https://chichester.ac.uk/brinsbury) and also studied Border design at Wisley. 
+Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https://chichester.ac.uk/brinsbury),  and also studied border design at Merrist Wood and tree care at Wisley. 
 
 ### Professional Membership
 Duncan is a member of the following trade organisation:
 
-* [The Gardener's Guild](http://www.thegardenersguild.co.uk) 
+* [The Professional Gardener's Guild](http://www.pgg.org.uk) 
