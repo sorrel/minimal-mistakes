@@ -13,7 +13,7 @@ toc_icon: "tree"
 Heidi often works on her own on smaller gardens and sometimes with Duncan West on larger plots. Profiles of both gardeners are below.
 
 ## Heidi Hurwood
-{% include figure image_path="/assets/images/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
+{% include figure image_path="/assets/images/general/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
 Heidi has been gardening for fifteen years, starting with her own allotment followed by several years volunteering at Ryton Garden Organic before gardening professionally.
 
 ### Horticulture Qualifcations
@@ -24,7 +24,7 @@ Since 2010 she has been studying professional qualifications in order to improve
   * RHS Level Two *Certificate in the Principles of Plant Growth, Propagation and Development* (2013)
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)
 
-{% include figure image_path="/assets/images/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
+{% include figure image_path="/assets/images/general/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
 
 Heidi recently has taken part in several pruning workshops, focusing on fruit pruning skills.
 
@@ -57,7 +57,7 @@ Heidi is also a proud supporter of:
   * [The RSPB](https://ww2.rspb.org.uk)
 
 ## Duncan West
-{% include figure image_path="/assets/images/dwest.png" alt="Duncan at work" caption="" %}{: .align-right}
+{% include figure image_path="/assets/images/general/dwest.png" alt="Duncan at work" caption="" %}{: .align-right}
 Duncan has been gardening for over six years, both on his own and as part of other teams.
 
 Duncan enjoys the design aspect of gardening as well as maintenance and particularly excels in topiary, crown lifting and having a great eye for seeing a garden’s true potential. 
