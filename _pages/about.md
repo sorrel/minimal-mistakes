@@ -54,6 +54,7 @@ Heidi is also a proud supporter of:
   * [The Cottage Garden Society](http://www.thecottagegardensociety.org.uk)
   * [Billingshurst Horticultural Society](http://horticulture.billingshurst.community)
   * [The Bumblebee Conservation Trust](https://bumblebeeconservation.org)
+  * [The RSPB](https://ww2.rspb.org.uk)
 
 ## Duncan West
 {% include figure image_path="/assets/images/dwest.png" alt="Duncan at work" caption="" %}{: .align-right}
