@@ -25,9 +25,9 @@ We offer an experienced and knowledge-based gardening service and can provide:
 We can do mowing and lawn care, but do not specialise in this area.
 
 # Prices
-All maintenance consultation visits are free.
+Maintenance and design consultation from £23 per hour.
 
-Design consultation and work are from £22 per hour, per gardener on site, depending on the size of the garden.
+All maintenance consultation visits are free.
 
 *Leaf and Seed are fully public liability insured for our work.*
 
