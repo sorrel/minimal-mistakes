@@ -1,3 +1,15 @@
+## Unreleased
+
+### Enhancements
+
+* Update Font Awesome to version `5.0.9`. [#1605](https://github.com/mmistakes/minimal-mistakes/pull/1605)
+* Add Slovak localized UI text strings. [#1613](https://github.com/mmistakes/minimal-mistakes/pull/1613)
+
+### Bug Fixes
+
+* Use correct text string for "Back to Top" link. [#1595](https://github.com/mmistakes/minimal-mistakes/issues/1595)
+* Add conditionals for showing `reCaptcha.siteKey` and `reCaptcha.secret` in Staticman comments form.
+
 ## [4.11.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.11.1)
 
 ### Enhancements
