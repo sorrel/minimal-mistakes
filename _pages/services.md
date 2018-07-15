@@ -14,7 +14,8 @@ We offer an experienced and knowledge-based gardening service and can provide:
   * One-off Seasonal tidy ups
   * Fruit and vegetable production and care
   * Weeding
-  * Plant Advice
+  * Plant advice
+  * Wildlife friendly gardening advice
   * Border Care
   * Plant health advice and plant management advice
   * Design
@@ -25,7 +26,7 @@ We offer an experienced and knowledge-based gardening service and can provide:
 We can do mowing and lawn care, but do not specialise in this area.
 
 # Prices
-Maintenance and design consultation from £23 per hour.
+Professionally qualified garden maintenance, advice and wildlife specialist services from £24 per hour.
 
 All maintenance consultation visits are free.
 
