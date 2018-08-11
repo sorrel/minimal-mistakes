@@ -26,7 +26,7 @@ We offer an experienced and knowledge-based gardening service and can provide:
 We can do mowing and lawn care, but do not specialise in this area.
 
 # Prices
-Professionally qualified garden maintenance, advice and wildlife specialist services from £24 per hour.
+Professionally qualified garden maintenance, advice and wildlife specialist services from £23 per hour.
 
 All maintenance consultation visits are free.
 

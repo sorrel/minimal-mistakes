@@ -26,7 +26,10 @@ Since 2010 she has been studying professional qualifications in order to improve
 
 {% include figure image_path="/assets/images/general/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
 
-Heidi recently has taken part in several pruning workshops, focusing on fruit pruning skills.
+Heidi has taken the following courses and workshops, introducing them into her range of gardening skills:
+* *Gardening for Wildlife* (Michael & Jane Joseph)
+* *Meadows: creation, management & enjoyment* (Michael & Jane Joseph)
+* *Fruit tree pruning* (Alan Sargent)
 
 ### Professional Membership
 Heidi is a member of the following trade organisations:
