@@ -26,4 +26,5 @@ group :jekyll_plugins do
  gem 'jekyll-twitter-plugin'
  gem 'instagram'
  gem 'json'
+ gem 'jekyll-include-cache'
 end

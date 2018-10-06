@@ -105,7 +105,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Leaf & Seed"
   avatar           : "/assets/images/general/favicon-310.png"
   bio              : "Gardening Services"
@@ -136,11 +135,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+
   email            :
   links:
     - label: "Email"
@@ -183,7 +178,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
->>>>>>> master
 
 
 # Reading Files
@@ -266,13 +260,10 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jemoji
-<<<<<<< HEAD
   - jekyll-twitter-plugin
   - instagram
   - json
-=======
   - jekyll-include-cache
->>>>>>> master
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -281,13 +272,10 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-<<<<<<< HEAD
   - instagram
   - json
-=======
   - jekyll-include-cache
 
->>>>>>> master
 
 # Archives
 #  Type
