@@ -1,8 +1,7 @@
 /* Adapted from: https://github.com/peledies/google-places */
 
-
 (function($) {
-
+  
     $.googlePlaces = function(element, options) {
 
         var defaults = {
@@ -79,7 +78,7 @@
           var row_count = (plugin.settings.max_rows > 0)? plugin.settings.max_rows - 1 : reviews.length - 1;
           // make sure the row_count is not greater than available records
           row_count = (row_count > reviews.length-1)? reviews.length -1 : row_count;
-          
+
           for (var i = row_count; i >= 0; i--) {
             var stars = renderStars(reviews[i].rating);
             var date = convertTime(reviews[i].time);
@@ -87,14 +86,14 @@
           };
           $element.append(html);
         }
-        
+
         var initRotation = function() {
             var $reviewEls = $element.children('.review-item');
             var currentIdx = $reviewEls.length > 0 ? 0 : false;
             $reviewEls.hide();
             if(currentIdx !== false) {
                 $($reviewEls[currentIdx]).show();
-                setInterval(function(){ 
+                setInterval(function(){
                     if(++currentIdx >= $reviewEls.length) {
                         currentIdx = 0;
                     }
@@ -106,7 +105,7 @@
 
         var renderStars = function(rating){
           var stars = "<div class='review-stars'><ul>";
-                            
+
           // fill in gold stars
           for (var i = 0; i < rating; i++) {
             stars = stars+"<li><i class='star'></i></li>";
