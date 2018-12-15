@@ -56,12 +56,12 @@ staticman:
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
-  secret                 : 
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-head_scripts             : 
+head_scripts             :
  - '/assets/js/main.min.js'    # Only want this for testimonals, so don't need it everywhere (but here it is)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Leaf & Seed"
-  avatar           : "/assets/images/general/favicon-310.png"
+  avatar           : "assets/images/general/favicon-310.png"
   bio              : "Gardening Services"
   location         : "West Sussex & Surrey"
   email            : "heidi@leafandseed.co.uk"
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/London 
+timezone: Europe/London
 
 
 # Plugins (gems)
@@ -323,4 +323,3 @@ defaults:
       layout: splash
       author_profile: true
       read_time: true
-
