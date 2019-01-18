@@ -1,8 +1,6 @@
 A business website, based on....
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
-SOFTWARE.
-
 Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/)
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
 Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
@@ -32,6 +30,10 @@ Magnific Popup is distributed under the terms of the MIT License.
 Minimal Mistakes incorporates [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll),
 Copyright (c) 2017 Karl Swedberg.
 jQuery Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+Minimal Mistakes incorporates [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
+Copyright (c) 2010 "Cowboy" Ben Alman.
+jQuery throttle / debounce is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
 Copyright (c) 2015 Luke Jackson.
