@@ -5,8 +5,40 @@ layout: single
 author_profile: true
 author: Leaf and Seed
 wildlife_g:
-  - image_path: /assets/images/gallery/Strawberry.jpg
-    url: /assets/images/gallery/Strawberry.jpg
+  - url: /assets/images/gallery/my garden 1.jpg
+    image_path: /assets/images/gallery/my garden 1.jpg
+    alt: "My own small garden looking wild and wonderful in June"
+    title: "My own small garden looking wild and wonderful in June"
+  - url: /assets/images/gallery/my garden 2.jpg
+    image_path: /assets/images/gallery/my garden 2.jpg
+    alt: "Everything growing strongly in my own garden"
+    title: "Everything growing strongly in my own garden"
+  - url: /assets/images/gallery/my garden 3.jpg
+    image_path: /assets/images/gallery/my garden 3.jpg
+    alt: " Plenty of plants for wildlife; my own garden"
+    title: " Plenty of plants for wildlife; my own garden"
+  - url: /assets/images/gallery/verbene bon.jpg
+    image_path: /assets/images/gallery/verbene bon.jpg
+    alt: "Verbena bonariensis, visited by a hummingbird hawk moth last summer"
+    title: "Verbena bonariensis, visited by a hummingbird hawk moth last summer"
+  - url: /assets/images/gallery/cobea.jpg
+    image_path: /assets/images/gallery/cobea.jpg
+    alt: "Cobea: Cup and saucer vine, first time i’ve ever grown one, picked it up at a plant sale!"
+    title: "Cobea: Cup and saucer vine, first time i’ve ever grown one, picked it up at a plant sale!"
+  - url: /assets/images/gallery/autumn leaves.jpg
+    image_path: /assets/images/gallery/autumn leaves.jpg
+    alt: "A wonderful array of Autumn leaves from a Maple"
+    title: "A wonderful array of Autumn leaves from a Maple"
+  - url: /assets/images/gallery/crimson clover.jpg
+    image_path: /assets/images/gallery/crimson clover.jpg
+    alt: "Crimson clover: a fantastic plant for bees"
+    title: "Crimson clover: a fantastic plant for bees"
+  - url: /assets/images/gallery/snowdrops tarmac.jpg
+    image_path: /assets/images/gallery/snowdrops tarmac.jpg
+    alt: "Snowdrops pushing through tarmac!"
+    title: "Snowdrops pushing through tarmac!"
+  - url: /assets/images/gallery/Strawberry.jpg
+    image_path: /assets/images/gallery/Strawberry.jpg
     alt: "Strawberry"
     title: "A perfect strawberry, from a client's garden"
   - url: /assets/images/gallery/Beautiful Iris.jpg
@@ -51,14 +83,42 @@ life_g:
     alt: "An unexpected toad"
     title: "Another unexpected toad"
 work_g:
-  - url: /assets/images/gallery/beans.jpg
-    image_path: /assets/images/gallery/beans.jpg
-    alt: "Lovely beans growing tall"
-    title: "Lovely beans growing tall"
-  - url: /assets/images/gallery/sunflowers.jpg
-    image_path: /assets/images/gallery/sunflowers.jpg
-    alt: "A gathering of sunflowers"
-    title: "A gathering of sunflowers"
+  - url: /assets/images/gallery/hedge at Wild Fortune.jpg
+    image_path: /assets/images/gallery/hedge at Wild Fortune.jpg
+    alt: "Newly pruned deciduous hedge at Wild Fortune"
+    title: "Newly pruned deciduous hedge at Wild Fortune"
+  - url: /assets/images/gallery/climbing rose.jpg
+    image_path: /assets/images/gallery/climbing rose.jpg
+    alt: "A pruned and tamed climbing rose"
+    title: "A pruned and tamed climbing rose"
+  - url: /assets/images/gallery/wisteria.jpg
+    image_path: /assets/images/gallery/wisteria.jpg
+    alt: "Wisteria in all it’s glory in May; I pruned this in January"
+    title: "Wisteria in all it’s glory in May; I pruned this in January"
+  - url: /assets/images/gallery/newly planted border.jpg
+    image_path: /assets/images/gallery/newly planted border.jpg
+    alt: "A newly planted up border edge of Alchemilla mollis and English lavender"
+    title: "A newly planted up border edge of Alchemilla mollis and English lavender"
+  - url: /assets/images/gallery/tub with primulas.jpg
+    image_path: /assets/images/gallery/tub with primulas.jpg
+    alt: "An already planted tub made more interesting with the addition of ivy, primulas and stocks"
+    title: "An already planted tub made more interesting with the addition of ivy, primulas and stocks"
+  - url: /assets/images/gallery/windows box winter.jpg
+    image_path: /assets/images/gallery/windows box winter.jpg
+    alt: "Window box planted for winter interest"
+    title: "Window box planted for winter interest"
+  - url: /assets/images/gallery/cabbage palm.jpg
+    image_path: /assets/images/gallery/cabbage palm.jpg
+    alt: "Cabbage palm before and after a pruning tidy up"
+    title: "abbage palm before and after a pruning tidy up"
+  - url: /assets/images/gallery/pruned tree.jpg
+    image_path: /assets/images/gallery/pruned tree.jpg
+    alt: "January: pruned apple tree"
+    title: "January: pruned apple tree"
+  - url: /assets/images/gallery/rockery.jpg
+    image_path: /assets/images/gallery/rockery.jpg
+    alt: "An overgrown rockery before and after a tidy up!"
+    title: "An overgrown rockery before and after a tidy up!" 
   - url: /assets/images/gallery/Pruned Buddleja.jpg
     image_path: /assets/images/gallery/Pruned Buddleja.jpg
     alt: "Pruned Buddleja"
@@ -75,19 +135,27 @@ work_g:
     image_path: /assets/images/gallery/Newly turfed section of garden.jpg
     alt: "Newly turfed section of garden"
     title: "Newly turfed section of garden"
+  - url: /assets/images/gallery/sunflowers.jpg
+    image_path: /assets/images/gallery/sunflowers.jpg
+    alt: "A gathering of sunflowers"
+    title: "A gathering of sunflowers"
+  - url: /assets/images/gallery/beans.jpg
+    image_path: /assets/images/gallery/beans.jpg
+    alt: "Lovely beans growing tall"
+    title: "Lovely beans growing tall"
 toc: true
 toc_label: "Gallery"
 toc_icon: "tree"
 ---
 All photos below taken as part of my gardening work.
 
+## Recent work
+{% include gallery id="work_g" %}
+
 ## Fantastic flowers & perfect plants
 {% include gallery id="wildlife_g" %}
 
 ## Wildlife in the garden
 {% include gallery id="life_g" %}
-
-## Recent work
-{% include gallery id="work_g" %}
 
 Also, please do look at the Leaf and Seed [instagram](https://instagram.com/leaf_and_seed) feed.
