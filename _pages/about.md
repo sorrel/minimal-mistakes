@@ -91,4 +91,4 @@ Duncan passed the *RHS Level 2 Practical* in 2013, at [Brinsbury College](https:
 Duncan is a member of:
 
 * [The Professional Gardener's Guild](http://www.pgg.org.uk) 
-* [Haslere Gardening Society](http://haslemere-gardening-society.co.uk)
+* [Haslmere Gardening Society](http://haslemere-gardening-society.co.uk)

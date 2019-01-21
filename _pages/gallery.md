@@ -147,7 +147,7 @@ toc: true
 toc_label: "Gallery"
 toc_icon: "tree"
 ---
-All photos below taken as part of my gardening work.
+All photos below taken as part of my gardening work. Please click on an image to learn more about the work, plant or wildlife involved.
 
 ## Recent work
 {% include gallery id="work_g" %}
