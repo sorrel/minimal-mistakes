@@ -83,6 +83,18 @@ life_g:
     alt: "An unexpected toad"
     title: "Another unexpected toad"
 work_g:
+  - url: /assets/images/gallery/flower january.jpg
+    image_path: /assets/images/gallery/flower january.jpg
+    alt: "A crown lifted (by Duncan) Viburnum tinus in full flower (January)"
+    title: "A crown lifted (by Duncan) Viburnum tinus in full flower (January)"
+  - url: /assets/images/gallery/Viburnum.jpg
+    image_path: /assets/images/gallery/Viburnum.jpg
+    alt: "Heidi pruning Viburnum Opulus, thinning it out and reducing it’s height"
+    title: "Heidi pruning Viburnum Opulus, thinning it out and reducing it’s height"
+  - url: /assets/images/gallery/wisteria jan.jpg
+    image_path: /assets/images/gallery/wisteria jan.jpg
+    alt: "Duncan pruning Wisteria in January"
+    title: "Duncan pruning Wisteria in January"
   - url: /assets/images/gallery/hedge at Wild Fortune.jpg
     image_path: /assets/images/gallery/hedge at Wild Fortune.jpg
     alt: "Newly pruned deciduous hedge at Wild Fortune"
