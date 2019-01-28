@@ -89,8 +89,8 @@ work_g:
     title: "A crown lifted (by Duncan) Viburnum tinus in full flower (January)"
   - url: /assets/images/gallery/Viburnum.jpg
     image_path: /assets/images/gallery/Viburnum.jpg
-    alt: "Heidi pruning Viburnum Opulus, thinning it out and reducing it’s height"
-    title: "Heidi pruning Viburnum Opulus, thinning it out and reducing it’s height"
+    alt: "Heidi pruning Viburnum Opulus, thinning it out and reducing its height"
+    title: "Heidi pruning Viburnum Opulus, thinning it out and reducing its height"
   - url: /assets/images/gallery/wisteria jan.jpg
     image_path: /assets/images/gallery/wisteria jan.jpg
     alt: "Duncan pruning Wisteria in January"

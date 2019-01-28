@@ -69,6 +69,7 @@ Heidi is also a proud supporter of:
   * [The Cottage Garden Society](http://www.thecottagegardensociety.org.uk)
   * [The Bumblebee Conservation Trust](https://bumblebeeconservation.org)
   * [The RSPB](https://ww2.rspb.org.uk)
+  * [Buglife](https://www.buglife.org.uk)
 
 Finally Heidi is an avid listener of Garden Radio programmes and podcasts such as _Gardener's Question Time_, _Sunday Garden_, _Dig it_ and _Garden Weeds and Words_.
 
