@@ -1,13 +1,14 @@
 ---
 title: Areas Covered
 permalink: areas/
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 author: Leaf and Seed
 ---
-We are based in Billingshurst and cover West Sussex and some Surrey areas. 
+We are based in Billingshurst and cover West Sussex and some Surrey areas, working extensively in West Chiltington, Storrington, Loxwood and up to Dorking, with some work in Plaistow, Kirdford and Horsham.
 
-Please contact us if you have a garden you would like us to take a look at.
+The approximate areas we cover are shown in the map below, but we are happy to consider work outside this area:
+{% include figure image_path="/assets/images/general/drawing.jpg" %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d80298.06584764745!2d-0.6583536533807!3d51.02881077535441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1488047428423" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
