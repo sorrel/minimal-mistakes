@@ -1,4 +1,5 @@
 A business website, based on....
+
 The MIT License (MIT)
 
 Copyright (c) 2013-2019 Michael Rose and contributors
