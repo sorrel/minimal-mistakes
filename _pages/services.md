@@ -7,6 +7,7 @@ author: Leaf and Seed
 ---
 We offer an experienced and knowledge-based gardening service and provide:
 
+  * Garden transformations: designing, sourcing and improving small sections to whole gardens
   * Pruning, including 
     * Rose pruning, fruit trees, ornamental shrubs, climbers, box topiary grasses
     * Specialist pruning advice
