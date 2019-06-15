@@ -28,6 +28,8 @@ Leaf & Seed have cared for a number of publically accessible gardens including:
  * *Foxmead Court Retirement Homes*, Storrington
  * *Stag Cottage Bed & Breakfast*, Balls Cross
 
+Heidi is extremely proud to have had her home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "Nature's Choice: showcasing what can be achieved in a very small space".
+
 ### Horticulture Qualifcations
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
 

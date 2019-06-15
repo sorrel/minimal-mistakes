@@ -14,6 +14,7 @@ We offer an experienced and knowledge-based gardening service and provide:
   * Sourcing plants
   * Planting up areas
   * One-off Seasonal tidy ups
+  * Floristry: I provide seasonal flower arrangements to order
 
   My planting service offers help if you require new areas planted or if you wish to change parts of your garden or even just add new plants. 
   
