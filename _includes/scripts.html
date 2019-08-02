@@ -8,13 +8,8 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% else %}
-<<<<<<< HEAD
-  <script src="{{ '/assets/js/all.js' | relative_url }}"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
-=======
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
   <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
->>>>>>> upstream/master
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
