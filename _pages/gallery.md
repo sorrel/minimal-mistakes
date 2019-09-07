@@ -213,7 +213,7 @@ All photos below taken as part of my gardening work. Please click on an image to
 ## RSPB Magazine Photoshoot
 My home garden was recently photographed for an as yet-to-be-published feature about small wildlife gardens in *Natures Home*, the [RSPB Magazine](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/). 
 
-The photos in this section were all taken by Andy Hay, with [Adrian Thomas](https://www.amazon.co.uk/Adrian-Thomas/e/B0034N9EJ8%3Fref=dbs_a_mng_rwt_scns_share).
+The photos in this section were all taken by [Andy Hay](https://www.rspb-images.com), with [Adrian Thomas](https://www.amazon.co.uk/Adrian-Thomas/e/B0034N9EJ8%3Fref=dbs_a_mng_rwt_scns_share).
 {% include gallery id="rspb_g" %}
 
 ## Recent work
