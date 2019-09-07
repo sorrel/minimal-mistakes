@@ -4,6 +4,55 @@ permalink: gallery/
 layout: single
 author_profile: true
 author: Leaf and Seed
+rspb_g:
+  - url: /assets/images/gallery/rspb_01.jpg
+    image_path: /assets/images/gallery/rspb_01.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_02.jpg
+    image_path: /assets/images/gallery/rspb_02.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_03.jpg
+    image_path: /assets/images/gallery/rspb_03.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_04.jpg
+    image_path: /assets/images/gallery/rspb_04.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_05.jpg
+    image_path: /assets/images/gallery/rspb_05.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_06.jpg
+    image_path: /assets/images/gallery/rspb_06.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_07.jpg
+    image_path: /assets/images/gallery/rspb_07.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_08.jpg
+    image_path: /assets/images/gallery/rspb_08.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_09.jpg
+    image_path: /assets/images/gallery/rspb_09.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_10.jpg
+    image_path: /assets/images/gallery/rspb_10.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_11.jpg
+    image_path: /assets/images/gallery/rspb_11.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/gallery/rspb_12.jpg
+    image_path: /assets/images/gallery/rspb_12.jpg
+    alt: ""
+    title: ""
 wildlife_g:
   - url: /assets/images/gallery/my garden 1.jpg
     image_path: /assets/images/gallery/my garden 1.jpg
@@ -159,7 +208,14 @@ toc: true
 toc_label: "Gallery"
 toc_icon: "tree"
 ---
+
 All photos below taken as part of my gardening work. Please click on an image to learn more about the work, plant or wildlife involved.
+
+## RSPB Magazine Photoshoot
+My home garden was recently photographed for an as yet-to-be-published feature about small wildlife gardens in *Natures Home*, the [RSPB Magazine](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/). 
+
+The photos in this section were all taken by Andy Hay, with [Adrian Thomas](https://www.amazon.co.uk/Adrian-Thomas/e/B0034N9EJ8%3Fref=dbs_a_mng_rwt_scns_share).
+{% include gallery id="rspb_g" %}
 
 ## Recent work
 {% include gallery id="work_g" %}
