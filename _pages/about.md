@@ -24,11 +24,12 @@ I have been a professional gardener for six years, gaining a wealth of experienc
 Every client has their own ideas about how they would like me to care for their garden and I enjoy working with them to translate this into horticultural success. I liaise closely with my clients and have been praised for my plant knowledge, reliability and general interest.
 
 Leaf & Seed have cared for a number of publically accessible gardens including:
+ * *Haglands Lane*, West Chiltington
  * *The Roundabout Hotel*, West Chiltington
  * *Foxmead Court Retirement Homes*, Storrington
  * *Stag Cottage Bed & Breakfast*, Balls Cross
 
-Heidi is extremely proud to have had her home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "Nature's Choice: showcasing what can be achieved in a very small space".
+Heidi is extremely proud to have had her home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "Nature's Choice: showcasing what can be achieved in a very small space", see the [Gallery] ({% link _pages/gallery.md %}) page.
 
 ### Horticulture Qualifcations
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
