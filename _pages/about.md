@@ -10,7 +10,7 @@ toc_icon: "tree"
 ---
 **Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
 
-Heidi usually works with Duncan West, with profiles of both gardeners below.
+Heidi occasionally works with Duncan West on larger gardens.
 
 ## Heidi Hurwood
 {% include figure image_path="/assets/images/general/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
@@ -85,7 +85,7 @@ Finally Heidi is an avid listener of Garden Radio programmes and podcasts such a
 
 ## Duncan West
 {% include figure image_path="/assets/images/general/dwest.png" alt="Duncan at work" caption="" %}{: .align-right}
-Duncan and I work well together as a team, both having a similar outlook towards gardening but also having our own unique skill set. Duncan is especially skilled at design, rose pruning and box topiary while Heidi has vast plant knowledge and specialises in herbaceous perennials and plant suggestions.
+Duncan and works with Heidi on some larger gardens. Duncan is studying garden design and is specially skilled at rose pruning and box topiary - while Heidi has plant knowledge and specialises in herbaceous perennials and plant suggestions.
 
 Duncan has been gardening for over six years, both on his own and as part of other teams.
 
