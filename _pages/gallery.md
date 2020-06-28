@@ -134,16 +134,12 @@ life_g:
 work_g:
   - url: /assets/images/gallery/flower january.jpg
     image_path: /assets/images/gallery/flower january.jpg
-    alt: "A crown lifted (by Duncan) Viburnum tinus in full flower (January)"
-    title: "A crown lifted (by Duncan) Viburnum tinus in full flower (January)"
+    alt: "A crown lifted Viburnum tinus in full flower (January)"
+    title: "A crown lifted Viburnum tinus in full flower (January)"
   - url: /assets/images/gallery/Viburnum.jpg
     image_path: /assets/images/gallery/Viburnum.jpg
     alt: "Heidi pruning Viburnum Opulus, thinning it out and reducing its height"
     title: "Heidi pruning Viburnum Opulus, thinning it out and reducing its height"
-  - url: /assets/images/gallery/wisteria jan.jpg
-    image_path: /assets/images/gallery/wisteria jan.jpg
-    alt: "Duncan pruning Wisteria in January"
-    title: "Duncan pruning Wisteria in January"
   - url: /assets/images/gallery/hedge at Wild Fortune.jpg
     image_path: /assets/images/gallery/hedge at Wild Fortune.jpg
     alt: "Newly pruned deciduous hedge at Wild Fortune"
@@ -176,10 +172,6 @@ work_g:
     image_path: /assets/images/gallery/pruned tree.jpg
     alt: "January: pruned apple tree"
     title: "January: pruned apple tree"
-  - url: /assets/images/gallery/rockery.jpg
-    image_path: /assets/images/gallery/rockery.jpg
-    alt: "An overgrown rockery before and after a tidy up!"
-    title: "An overgrown rockery before and after a tidy up!" 
   - url: /assets/images/gallery/Pruned Buddleja.jpg
     image_path: /assets/images/gallery/Pruned Buddleja.jpg
     alt: "Pruned Buddleja"
@@ -188,10 +180,6 @@ work_g:
     image_path: /assets/images/gallery/Newly planted Photinia hedge.jpg
     alt: "Newly planted Photinia hedge"
     title: "Newly planted Photinia hedge"
-  - url: /assets/images/gallery/Duncan hard at work giving a Lonicera nitida a much needed trim.jpg
-    image_path: /assets/images/gallery/Duncan hard at work giving a Lonicera nitida a much needed trim.jpg
-    alt: "Duncan hard at work giving a Lonicera nitida a much needed trim"
-    title: "Duncan hard at work giving a Lonicera nitida a much needed trim"
   - url: /assets/images/gallery/Newly turfed section of garden.jpg
     image_path: /assets/images/gallery/Newly turfed section of garden.jpg
     alt: "Newly turfed section of garden"

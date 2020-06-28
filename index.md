@@ -3,7 +3,7 @@ title: "Leaf & Seed"
 layout: splash
 author_profile: false
 header:
-  image: assets/images/general/index_banner.jpg
+  image: assets/images/general/index_banner2.png
 excerpt: "Garden services in the West Sussex area"
 ---
 <!--![Leaf and Seed Logo](/assets/images/general/index_logo_med.png){: .align-left}-->
