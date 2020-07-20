@@ -50,20 +50,17 @@
 ///
 /// @throw
 ///   when a shorthand value is not recognized
-@function susy-parse(
-  $shorthand,
-  $context-only: false
-) {
+@function susy-parse($shorthand,
+  $context-only: false) {
   $parse-error: 'Unknown shorthand property:';
-  $options: (
-    'first': 'location',
-    'last': 'location',
-    'alpha': 'location',
-    'omega': 'location',
-    'narrow': 'spread',
-    'wide': 'spread',
-    'wider': 'spread',
-  );
+  $options: ('first': 'location',
+      'last': 'location',
+      'alpha': 'location',
+      'omega': 'location',
+      'narrow': 'spread',
+      'wide': 'spread',
+      'wider': 'spread',
+    );
 
   $return: ();
   $span: null;
@@ -75,8 +72,10 @@
   // Allow context-only shorthand, without span
   @if ($context-only) and (not index($shorthand, 'of')) {
     @if su-valid-columns($shorthand, 'fail-silent') {
-      $shorthand: 'of' $shorthand;
-    } @else {
+      $shorthand: 'of'$shorthand;
+    }
+
+    @else {
       $shorthand: join('of', $shorthand);
     }
   }
@@ -97,48 +96,73 @@
       // Reset next to `false`
       $next: false;
 
-    } @else { // If we don't know what's supposed to be coming…
+    }
+
+    @else {
+      // If we don't know what's supposed to be coming…
 
       // Keywords…
-      @if ($type == 'string') {
+      @if ($type=='string') {
+
         // Check the map for keywords…
         @if map-has-key($options, $item) {
           $setting: map-get($options, $item);
 
           // Spread could be on the span or the container…
-          @if ($setting == 'spread') and ($of) {
+          @if ($setting=='spread') and ($of) {
             $return: map-merge($return, ('container-spread': $item));
-          } @else {
+          }
+
+          @else {
             $return: map-merge($return, ($setting: $item));
           }
 
-        } @else if ($item == 'all') {
+        }
+
+        @else if ($item=='all') {
           // `All` is a span shortcut
           $span: 'all';
-        } @else if ($item == 'at') {
+        }
+
+        @else if ($item=='at') {
           // Some keywords setup what's next…
           $next: 'location';
-        } @else if ($item == 'set-gutters') {
+        }
+
+        @else if ($item=='set-gutters') {
           $next: 'gutters';
-        } @else if ($item == 'of') {
+        }
+
+        @else if ($item=='of') {
           $of: true;
-        } @else {
+        }
+
+        @else {
           $error: true;
         }
 
-      } @else if ($type == 'number') or ($type == 'list') { // Numbers & lists…
+      }
+
+      @else if ($type=='number') or ($type=='list') {
+        // Numbers & lists…
 
         @if not ($span or $of) {
           // We don't have a span, and we're not expecting context…
           $span: $item;
-        } @else if ($of) and (not $columns) {
+        }
+
+        @else if ($of) and (not $columns) {
           // We are expecting context…
           $columns: $item;
-        } @else {
+        }
+
+        @else {
           $error: true;
         }
 
-      } @else {
+      }
+
+      @else {
         $error: true;
       }
     }
