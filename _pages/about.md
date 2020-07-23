@@ -5,19 +5,20 @@ layout: splash
 author_profile: false
 
 toc: true
-toc_label: "Gardeners"
+toc_label: "About Heidi"
 toc_icon: "tree"
 ---
-**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services in the West Sussex area.
+**Leaf & Seed** was founded by Heidi Hurwood in 2014, to provide RHS Qualified and knowledgeable gardening services.
 
-## Heidi Hurwood
-{% include figure image_path="/assets/images/general/about_heidi2.png" alt="Heidi gardening" caption="" %}{: .align-right}
-Heidi has been gardening for sixteen years, starting with her own allotment in the early 2000s followed by several years volunteering at Ryton Garden Organic before gardening professionally.
+## Heidi's Gardening Work
+{% include figure image_path="/assets/images/general/about_heidi3.jpg" alt="Heidi in a garden" caption="" %}{: .align-right}
+I have been gardening for most of my life and have had my own business since 2014. 
 
-I have been a professional gardener for six years, gaining a wealth of experience in the many gardens I have cared for, with a particular focus on pruning. Every garden is different with:
- * a huge variety of plants 
- * different aspects and shading
- * varied soil types/nutrient requirements
+I have always had an interest in wildlife and the natural world - in making things grow and flourish. Beyond gardening as a career I tended allotments for many years where I've produce fruit, vegetables, cutting garden flowers and pollinator friendly plants. 
+
+My gardening passions are for wildlife, herbaceous perennials and an organic approach to every aspect of plant care. Alongside gaining practical experience, beginning as a volunteer at Garden Organic in the Midlands over ten years ago, I have also studied and passed a multiple RHS qualifications. 
+
+I take pride in all the gardens I work in and get great satisfaction working alongside and liaising with my clients so they get the very best from their gardens.I have been praised for my plant knowledge, reliability and enthusiasm.I am happiest when I am planting up an area, caring for it afterwards and watching the plants grow and thrive under my care.
 
 Every client has their own ideas about how they would like me to care for their garden and I enjoy working with them to translate this into horticultural success. I liaise closely with my clients and have been praised for my plant knowledge, reliability and general interest.
 
@@ -29,7 +30,7 @@ Leaf & Seed have cared for a number of publically accessible gardens including:
 
 Heidi is extremely proud to have had her home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "Nature's Choice: showcasing what can be achieved in a very small space", see the [Gallery]({% link _pages/gallery.md %}) page.
 
-### Horticulture Qualifcations
+## Horticulture Qualifcations
 Since 2010 she has been studying professional qualifications in order to improve her gardening skills and knowledge, and now holds:
 
   * RHS Level Three *The Management of Plant Health* (2017)
@@ -37,25 +38,23 @@ Since 2010 she has been studying professional qualifications in order to improve
   * RHS Level Two *Certificate in the Principles of Plant Growth, Propagation and Development* (2013)
   * City and Guilds *Certificate in Gardening* (Distinction) (2010)
 
-{% include figure image_path="/assets/images/general/about_heidi.png" alt="Heidi at Westdene Gardens" caption="Heidi in the greenhouse at [Westdene Gardens](https://www.westdean.org.uk/gardens)." %}{: .align-right}
-
 Heidi has taken the following courses and workshops, introducing them into her range of gardening skills:
 * *Gardening for Wildlife* (Michael & Jane Joseph)
 * *Meadows: creation, management & enjoyment* (Michael & Jane Joseph)
 * *Fruit tree pruning* (Alan Sargent)
 
-### Professional Membership
+## Professional Membership
 Heidi is a member of the following trade organisations:
 
 * [The Gardener's Guild](http://www.thegardenersguild.co.uk) 
 * [Chartered Institute of Horticulture](https://www.horticulture.org.uk), associate member
 * [Professional Gardener's Guild](http://www.pgg.org.uk)
 
-### Society Membership
+## Society Membership
  * [Billingshurst Horticultural Society](http://horticulture.billingshurst.community)
  * [Wisborough Green Horticultural Society](http://www.wisboroughgreen.org/horticultural-society/)
 
-### Volunteer Work
+## Volunteer Work
 Heidi has volunteered at the following places and organisations:
 
   * [Friends of Station Road Gardens](https://www.facebook.com/FOGBillie/), Billingshurst
@@ -65,7 +64,7 @@ Heidi has volunteered at the following places and organisations:
   * [Britain in Bloom](https://www.rhs.org.uk/Communities/Campaigns/Britain-in-Bloom/Get-Involved)
   * Warwickshire Wildlife Trust, [Crackley Wood](http://www.warwickshirewildlifetrust.org.uk/reserves/crackley-woods) Conservation
 
-### Charities Supported
+## Charities Supported
 Heidi is also a proud supporter of:
 
   * [The RHS](https://www.rhs.org.uk)
@@ -79,4 +78,24 @@ Heidi is also a proud supporter of:
 
   Heidi continues to run her own allotment, focusing on fruit, vegetables and recently diversifying into flowers for her own floristry arrangements. The allowment features a wildlife area and an abundance of pollinator-friendly plants.
 
-Finally Heidi is an avid listener of Garden Radio programmes and podcasts such as _Gardener's Question Time_, _Sunday Garden_, _Wild Flower Half-Hour_, _Dig it_ and _Garden Weeds and Words_.
+## Media & Podcasts
+Heidi is an avid listener of Garden Radio programmes and podcasts and recommends the following:
+
+* [Gardener's Question Time](https://www.bbc.co.uk/programmes/b006qp2f)
+* [The Plant-based podcast](https://theplantbasedpodcast.net)
+* [Wild Flower Half-Hour](https://bsbi.org/wildflower-hour)
+* [The Organic Gardening Podcast](https://gardenorganic.org.uk/podcast)
+* [Dig it](https://www.bbc.co.uk/programmes/p001d7gf/episodes/guide)
+* [Garden Weeds and Words](http://www.gardensweedsandwords.com/podcast)
+
+## Gardening Heroes
+There are lots of other gardeners whose work or philosophy I appreciate, including:
+
+* [Jack Wallington](https://www.jackwallington.com)
+* [Kate Bradbury]()
+* [Dean Croucher]()
+* [Charles Darnay]()
+* [Christopher Lloyd]()
+* [Fergus Garett]()
+
+I also get lots of inspiration from visiting beautiful gardens such as [Woolbeeding](https://www.nationaltrust.org.uk/woolbeding-gardens) and [Wisley](https://www.rhs.org.uk/gardens/wisley) and from walks in the sussex countryside.
