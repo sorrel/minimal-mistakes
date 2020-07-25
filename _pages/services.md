@@ -17,12 +17,14 @@ I offer an experienced and professional gardening service and provide the follow
   * Aftercare of plants.
   * Weeding, feeding and watering, 
 
-I also can supply seasonal, homegrown flower arrangements to order.
+I also can supply seasonal, homegrown flower arrangements and wreaths to order.
 
 # Prices
-Professionally qualified garden maintenance, advice and wildlife specialist services from £20 per hour.
+Professionally qualified garden maintenance services from £20 per hour.
 
 All maintenance consultation visits are free.
+
+Plant suggestions & design and wildlife consultations are £20 per hour.
 
 *Leaf and Seed are fully public liability insured for all of our work.*
 

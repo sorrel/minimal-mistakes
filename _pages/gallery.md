@@ -32,7 +32,7 @@ flower_g:
   - url: /assets/images/gallery/display7.jpeg
     image_path: /assets/images/gallery/display7.jpeg
     alt: ""
-    title: "Warm late summer church alter arrangement"
+    title: "Warm late summer church altar arrangement"
   - url: /assets/images/gallery/display2.jpeg
     image_path: /assets/images/gallery/display2.jpeg
     alt: ""
@@ -176,10 +176,6 @@ life_g:
     image_path: /assets/images/gallery/Frog rescue.jpg
     alt: "Frog rescue"
     title: "Toad rescue"
-  - url: /assets/images/gallery/An unexpected toad.jpg
-    image_path: /assets/images/gallery/An unexpected toad.jpg
-    alt: "An unexpected toad"
-    title: "Another unexpected toad"
 work_g:
   - url: /assets/images/gallery/flower january.jpg
     image_path: /assets/images/gallery/flower january.jpg
@@ -216,7 +212,7 @@ work_g:
   - url: /assets/images/gallery/cabbage palm.jpg
     image_path: /assets/images/gallery/cabbage palm.jpg
     alt: "Cabbage palm before and after a pruning tidy up"
-    title: "abbage palm before and after a pruning tidy up"
+    title: "Cabbage palm before and after a pruning tidy up"
   - url: /assets/images/gallery/pruned tree.jpg
     image_path: /assets/images/gallery/pruned tree.jpg
     alt: "January: pruned apple tree"

@@ -28,7 +28,7 @@ Leaf & Seed have cared for a number of publically accessible gardens including:
  * *Foxmead Court Retirement Homes*, Storrington
  * *Stag Cottage Bed & Breakfast*, Balls Cross
 
-I am extremely proud to have had her home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "*Nature's Choice: showcasing what can be achieved in a very small space*"; see the [Gallery]({% link _pages/gallery.md %}) page for photos from this.
+I am extremely proud to have had mys home garden recently photographed for a forthcoming feature in the RSPB magazine entitled: "*Nature's Choice: showcasing what can be achieved in a very small space*"; see the [Gallery]({% link _pages/gallery.md %}) page for photos from this.
 
 ## Horticulture Qualifcations
 Since 2010 I have been studying professional qualifications in order to improve my gardening skills and knowledge, and hold:
