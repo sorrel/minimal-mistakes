@@ -15,17 +15,19 @@ The approximate areas I usually cover are shown below in orange, but I am happy 
     padding-bottom:90%;
     position:relative;
     height:0;
+    border-radius: 10px;
 }
 .change iframe{
+    overflow:hidden;
     left:0;
     top:0;
+    position: absolute;
     height:100%;
     width:100%;
-    position:absolute;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 </style>
 
 <div class="change">
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1xFcZQeofSUHlBmwKlPQjAsHGysJ1ax11" style="border:2" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1xFcZQeofSUHlBmwKlPQjAsHGysJ1ax11" allowfullscreen></iframe>
 </div>
