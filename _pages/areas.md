@@ -7,7 +7,7 @@ author_profile: true
 ---
 I am based in Billingshurst and cover West Sussex and some Surrey areas.
 
-The approximate areas I cover are shown below in orange, but I am happy to consider work beyond this.
+The approximate areas I usually cover are shown below in orange, but I am happy to consider work beyond this.
 
 <style>
 .change{
