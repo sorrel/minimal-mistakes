@@ -4,6 +4,55 @@ permalink: gallery/
 layout: single
 author_profile: true
 author: Leaf and Seed
+flower_g:
+  - url: /assets/images/gallery/wreath1.jpeg
+    image_path: /assets/images/gallery/wreath1.jpeg
+    alt: ""
+    title: "Summer door wreath"
+  - url: /assets/images/gallery/wreath3.jpeg
+    image_path: /assets/images/gallery/wreath3.jpeg
+    alt: ""
+    title: "Cool colours door wreath showcasing hydrangea"
+  - url: /assets/images/gallery/wreath2.jpeg
+    image_path: /assets/images/gallery/wreath2.jpeg
+    alt: ""
+    title: "Vibrant summer colours door wreath"
+  - url: /assets/images/gallery/wreath4jpeg
+    image_path: /assets/images/gallery/wreath4.jpeg
+    alt: ""
+    title: "Door wreath using a plethora of blooms"
+  - url: /assets/images/gallery/display6.jpeg
+    image_path: /assets/images/gallery/display6.jpeg
+    alt: ""
+    title: "Completely eco-friendly sympathy arrangement"
+  - url: /assets/images/gallery/display3.jpeg
+    image_path: /assets/images/gallery/display3.jpeg
+    alt: ""
+    title: "Late Spring vibrant bouquet"
+  - url: /assets/images/gallery/display7.jpeg
+    image_path: /assets/images/gallery/display7.jpeg
+    alt: ""
+    title: "Warm late summer church alter arrangement"
+  - url: /assets/images/gallery/display2.jpeg
+    image_path: /assets/images/gallery/display2.jpeg
+    alt: ""
+    title: "Wild style mid summer table bouquet maximising the large amount of flowers available"
+  - url: /assets/images/gallery/display4.jpeg
+    image_path: /assets/images/gallery/display4.jpeg
+    alt: ""
+    title: "Church alter Spring arrangement"
+  - url: /assets/images/gallery/christmas2.jpeg
+    image_path: /assets/images/gallery/christmas2.jpeg
+    alt: ""
+    title: "Christmas door wreath using small LED lights as winter highlights"
+  - url: /assets/images/gallery/christmas3.jpeg
+    image_path: /assets/images/gallery/christmas3.jpeg
+    alt: ""
+    title: "Christmas table arrangement with centre candle"
+  - url: /assets/images/gallery/christmas1.jpeg
+    image_path: /assets/images/gallery/christmas1.jpeg
+    alt: ""
+    title: "Christmas door wreath in cool complimentary colours"
 rspb_g:
   - url: /assets/images/gallery/rspb_01.jpg
     image_path: /assets/images/gallery/rspb_01.jpg
@@ -198,13 +247,17 @@ toc_icon: "tree"
 ---
 All photos below taken as part of my gardening work. Please click on an image to learn more about the work, plant or wildlife involved.
 
+## Flower arrangements and door-wreaths
+I make a selection of seasonal flower arrangemnts and wreaths, mostly for my own home, but I can also do some for customers. See a seleection below:
+{% include gallery id="flower_g" %}
+
 ## RSPB Magazine Photoshoot
 My home garden was recently photographed for an as yet-to-be-published feature about small wildlife gardens in *Natures Home*, the [RSPB Magazine](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/). 
 
 The photos in this section were all taken by [Andy Hay](https://www.rspb-images.com), with [Adrian Thomas](https://www.amazon.co.uk/Adrian-Thomas/e/B0034N9EJ8%3Fref=dbs_a_mng_rwt_scns_share).
 {% include gallery id="rspb_g" %}
 
-## Recent work
+## Examples of work
 {% include gallery id="work_g" %}
 
 ## Fantastic flowers & perfect plants
