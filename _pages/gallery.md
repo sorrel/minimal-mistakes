@@ -40,7 +40,7 @@ flower_g:
   - url: /assets/images/gallery/display4.jpeg
     image_path: /assets/images/gallery/display4.jpeg
     alt: ""
-    title: "Church alter Spring arrangement"
+    title: "Church altar Spring arrangement"
   - url: /assets/images/gallery/christmas2.jpeg
     image_path: /assets/images/gallery/christmas2.jpeg
     alt: ""
