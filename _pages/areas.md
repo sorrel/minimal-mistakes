@@ -1,7 +1,7 @@
 ---
 title: Areas Covered
 permalink: areas/
-layout: single
+layout: splash
 author: Leaf and Seed
 author_profile: true
 ---
@@ -12,16 +12,18 @@ The usual areas I cover are shown below in orange, but I am happy to consider wo
 <style>
 .change{
     overflow:hidden;
-    padding-bottom:99%;
+    padding-bottom:95%;
     position:relative;
     height:0;
+    border-radius:10px;
 }
 .change iframe{
+    overflow:hidden;
     left:0;
     top:0;
     height:100%;
     width:100%;
-    position:absolute;
+    border-radius:10px;
 }
 </style>
 
