@@ -21,7 +21,7 @@ I offer an experienced and professional gardening service and provide the follow
 I also can supply seasonal, homegrown flower arrangements and wreaths to order.
 
 # Prices
-Professionally qualified garden maintenance services from £20 per hour.
+Professionally qualified garden maintenance services from £20 per hour in small gardens and £22 per hour in larger gardens.
 
 All maintenance consultation visits are free.
 
