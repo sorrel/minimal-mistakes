@@ -15,7 +15,8 @@ I offer an experienced and professional gardening service and provide the follow
   * Wildlife and diversity gardening.
   * Extensive plant knowledge to provide you with planting plans and ideas personally tailored to suit your garden.
   * Aftercare of plants.
-  * Weeding, feeding and watering, 
+  * Natural pest control advice.
+  * Weeding, feeding and watering.
 
 I also can supply seasonal, homegrown flower arrangements and wreaths to order.
 
