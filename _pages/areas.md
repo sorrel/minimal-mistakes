@@ -11,19 +11,19 @@ The usual areas I cover are shown below in orange, but I am happy to consider wo
 
 <style>
 .change{
-    overflow:hidden;
-    padding-bottom:95%;
-    position:relative;
-    height:0;
+    position: relative;
+    padding-bottom: 90%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
     border-radius:10px;
 }
 .change iframe{
-    overflow:hidden;
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
+    position: absolute;
     border-radius:10px;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
 }
 </style>
 
