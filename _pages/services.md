@@ -28,7 +28,7 @@ Professionally qualified garden maintenance services from:
 
 All maintenance consultation visits are free.
 
-Plant suggestions & design and wildlife consultations are £20 per hour.
+Plant suggestions and wildlife consultations are £20 per hour.
 
 *Leaf and Seed are fully public liability insured for all of our work.*
 

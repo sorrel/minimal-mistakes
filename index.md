@@ -8,7 +8,7 @@ excerpt: "Garden services in the West Sussex area"
 ---
 <!--![Leaf and Seed Logo](/assets/images/general/index_logo_med.png){: .align-left}-->
 
-# Garden maintenance & plant care, advice & design
+# Garden maintenance & plant care, advice
 **Leaf & Seed**, founded by **Heidi Hurwood** in 2014, provide professional horticulture and garden maintenance services in the West Sussex and Surrey areas.
 
 **Heidi** is **RHS qualified**, with experience in all gardening areas and particular expertise in **herbaceous perennials**, organic and **wildlife** gardening - across smaller and larger gardens up to three acres.
